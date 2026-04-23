@@ -23,8 +23,8 @@ All of this comes down to one thing: **data quality**
 Instead of sending emails to everyone, focus on:
 
 - Verified email data  
-- Industry-specific targeting  
-- Decision-makers only  
+- Industry specific targeting  
+- Decision makers only  
 
 This turns random outreach into **real conversations**.
 
